@@ -1,0 +1,5 @@
+RAM||4
+HLO||3
+YAT||1
+VAR||5
+RAMA||4
